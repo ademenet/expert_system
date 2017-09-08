@@ -1,9 +1,9 @@
 import unittest
 
 
-class TestFonction(unittest.TestCase):
-    def test_un_test(self):
-        pass
+class TestGraph(unittest.TestCase):
+    def test_push(self):
+        
 
 
 if __name__ == '__main__':
