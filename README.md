@@ -17,3 +17,4 @@ Some resources (in french and english):
 - [Comparison between Forward and Backward chaining](http://www.ijmlc.org/vol5/492-A14.pdf)
 - [Backward chaining: Expert System fundamentals](http://www.exsys.com/pdf/BackwardChaining.pdf)
 - [Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining)
+- [Logical-Based Artificial Intelligence and Expert Systems](http://www.primaryobjects.com/2018/07/23/logical-based-artificial-intelligence-and-expert-systems/)
